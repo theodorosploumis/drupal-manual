@@ -101,7 +101,7 @@ Of course, there is the core module [Tour](https://www.drupal.org/docs/8/core/mo
 ---
 
 ## Templates
-- [Page Template](/tree/master/templates/page/)
+- [Page Template](/templates/page/)
 
 ---
 
