@@ -1,11 +1,20 @@
 # Drupal site - User Guide (Manual)
-A skeleton to generate User Guide (manual) for Drupal Administrators (non-developers, non User 1).
+> A simple skeleton to create a (printed) User Guide (manual) for Drupal Site Administrators (non-developers, non User 1). 
+
+## About
+Have you ever created a Drupal site and need to provide a **written (printed)** documentation for the site Admins, Managers or Authors? This project is for you. "*How to add a new Page*", "*How to Promote a Node on Front Page*" etc are some of the questions that need answer in a User Guide. 
+
+A lot of administrative tasks in Drupal may have the same UI and similar options. For example when you create a Node by default you see on the form fields like `Title`, `URL Alias`, `Promoted to front page` etc. The documentation for these fields can be generic for every site.
+
+Of course, there is the core module [Tour](https://www.drupal.org/docs/8/core/modules/tour) that can help users with inline popups but this will not work for printed manuals.
 
 ---
 
-## Node Options
+## Options and Fields
 
-(Create a a common doc file for these options which are usually the same for every Drupal site. Most of the options appear from contributed modules. The same options may appear for **Media or othe custom Content entities**).
+### Node Options
+
+(Create a a common doc file for these options which are usually the same for every Drupal site. Most of the options appear from contributed modules. The same options may appear for **Media or other custom Content entities**).
 
 - View
 - Edit
@@ -21,7 +30,7 @@ A skeleton to generate User Guide (manual) for Drupal Administrators (non-develo
 
 ---
 
-## Paragraphs Options
+### Paragraphs Options
 (Create a a common doc file for these options which are usually the same for every Drupal site. Most of the options appear from contributed modules.)
 
 - View
@@ -36,7 +45,7 @@ A skeleton to generate User Guide (manual) for Drupal Administrators (non-develo
 
 ---
 
-## Webform Options
+### Webform Options
 (Create a a common doc file for these options which are usually the same for every Drupal site. These options appear from the webform module.)
 
 - View
@@ -49,7 +58,7 @@ A skeleton to generate User Guide (manual) for Drupal Administrators (non-develo
 
 ---
 
-## Menu Options
+### Menu Options
 (Create a a common doc file for these options which are usually the same for every Drupal site. These options appear from the core menu module.)
 
 - View menu links
@@ -63,7 +72,7 @@ A skeleton to generate User Guide (manual) for Drupal Administrators (non-develo
 
 ---
 
-## Node Form Fields
+### Node Form Fields
 
 (Create a a common doc file for these options which are usually the same for every Drupal site. Some of the fields appear from contributed modules.)
 
