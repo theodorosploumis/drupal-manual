@@ -110,63 +110,63 @@ Of course, there is the core module [Tour](https://www.drupal.org/docs/8/core/mo
 An example of Table of Contents for a Drupal site User Guide.
 
 1. Introduction
-  1. Table of Content
-  1. Cover, Date created, Owner, Logos and legal notices
-  1. Requirements and prior knowledge to use these Guides
+   1. Table of Content
+   1. Cover, Date created, Owner, Logos and legal notices
+   1. Requirements and prior knowledge to use these Guides
 2. General
-  1. Login
-  1. Reset Password
+   1. Login
+   1. Reset Password
 3. Content: Nodes
-  1. Manage Nodes (Views page explanation)
-  1. Node options (Actions explanation)
-  1. Node form visual guide (View-Mode VS Form 1-1 visual mapping)
-  1. Paragraph TypeA Fields (View-Mode VS Form 1-1 visual mapping)
+   1. Manage Nodes (Views page explanation)
+   1. Node options (Actions explanation)
+   1. Node form visual guide (View-Mode VS Form 1-1 visual mapping)
+   1. Paragraph TypeA Fields (View-Mode VS Form 1-1 visual mapping)
 4. Content: Media/MyEntity etc
-  1. Manage (see above)
-  1. Options (see above)
+   1. Manage (see above)
+   1. Options (see above)
 5. Content: Taxonomy
-  1. Manage (see above)
-  1. Options (see above)
+   1. Manage (see above)
+   1. Options (see above)
 6. Content: Blocks
-  1. (Same as above)
+   1. (Same as above)
 7. Forms
-  1. FormA
-    1. View FormA Results table
-    1. Download FormA results
-    1. Purge (Clean) FormA results
-    1. Each Result of FormA Actions
+   1. FormA
+     1. View FormA Results table
+     1. Download FormA results
+     1. Purge (Clean) FormA results
+     1. Each Result of FormA Actions
 8. Menus
-  1. MenuA
-    1. Add menu link
-    1. Edit menu link
-    1. Delete menu link
-    1. Change weight of a menu link
-    1. Disable/Enable a menu link
-    1. Expand a menu link
+   1. MenuA
+     1. Add menu link
+     1. Edit menu link
+     1. Delete menu link
+     1. Change weight of a menu link
+     1. Disable/Enable a menu link
+     1. Expand a menu link
 9. Settings
-  1. Clear Caches
-  1. Performance Settings
-  1. Google Analytics
-  1. Global metatags
-  1. URL Aliases
-  1. URL Redirects
-  1. Site Settings
-  1. System Users
-    1. Add User
-    1. Edit User
-    1. Delete User
+    1. Clear Caches
+    1. Performance Settings
+    1. Google Analytics
+    1. Global metatags
+    1. URL Aliases
+    1. URL Redirects
+    1. Site Settings
+    1. System Users
+        1. Add User
+        1. Edit User
+        1. Delete User
 10. Appendix
-  1. Using the CKEditor
-  1. Styleguide: Basic CSS styles (Headings, a links, buttons, lists, blockquote, image)
-  1. Styleguide: CKEditor custom styles (with visual mapping)
-  1. Styleguide: Dynamic Views from real Drupal Entity in several view modes
-  1. All data Fields by usage in Entities
-  1. Node Anatomy
-  1. Paragraph Anatomy
-  1. Paragraph View-Mode VS Form 1-1 visual mapping (for every type)
-  1. What is Drupal CMS
-  1. (Drupal) Terminology/Glossary (eg What are Nodes, Fields, Taxonomy, Blocks, Users, Paragraphs, View Modes, Caches, CKEditor, Accessibility, HTML)
-  1. Drupal.org documentation links etc
+    1. Using the CKEditor
+    1. Styleguide: Basic CSS styles (Headings, a links, buttons, lists, blockquote, image)
+    1. Styleguide: CKEditor custom styles (with visual mapping)
+    1. Styleguide: Dynamic Views from real Drupal Entity in several view modes
+    1. All data Fields by usage in Entities
+    1. Node Anatomy
+    1. Paragraph Anatomy
+    1. Paragraph View-Mode VS Form 1-1 visual mapping (for every type)
+    1. What is Drupal CMS
+    1. (Drupal) Terminology/Glossary (eg What are Nodes, Fields, Taxonomy, Blocks, Users, Paragraphs, View Modes, Caches, CKEditor, Accessibility, HTML)
+    1. Drupal.org documentation links etc
 
 ---
 
