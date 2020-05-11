@@ -37,9 +37,9 @@ Some special tips here to help users while executing this task.
 ---
 
 
-[<< Previous Page](#prev) //\\ [Next Page >>](#next)
+[<< Previous Page link](#prev) | [Next Page link >>](#next)
 
 ---
 
-[Edit Page](#edit) // [Print](#print) // [pdf export](#pdf) // [odt export](#odt)
+[Edit Page](#edit), [Print](#print), [pdf export](#pdf), [odt export](#odt)
 
