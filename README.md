@@ -10,6 +10,14 @@ Of course, there is the core module [Tour](https://www.drupal.org/docs/8/core/mo
 
 ---
 
+## Requirements
+- Use markdown files as sources.
+- Organize User Guide pages in folder structure
+- Use a static generator to build the Guide (hugo, gatsby, grav etc).
+- Allow reader to download each User User Guide page or the whole document as pdf, html, odt.
+
+---
+
 ## Options and Fields
 
 ### Node Options
@@ -92,12 +100,17 @@ Of course, there is the core module [Tour](https://www.drupal.org/docs/8/core/mo
 
 ---
 
+## Templates
+- [Page Template]()
+
+---
+
 ## TOC
 An example of a TOC for the User Guide.
 
 - Introduction
-  - What is Drupal CMS
-  - (Drupal) Terminology/Glossary (eg What are Nodes, Fields, Taxonomy, Blocks, Users, Paragraphs, View Modes, Caches, CKEditor)
+  - Table of Content
+  - Cover, Date created, Owner, Logos and legal notices
   - Requirements and prior knowledge to use these Guides
 - General
   - Login
@@ -142,6 +155,8 @@ An example of a TOC for the User Guide.
     - Edit User
     - Delete User
 - Appendix
+    - What is Drupal CMS
+    - (Drupal) Terminology/Glossary (eg What are Nodes, Fields, Taxonomy, Blocks, Users, Paragraphs, View Modes, Caches, CKEditor, Accessibility, HTML)
   - Using the CKEditor
   - Styleguide: Basic CSS styles (Headings, a links, buttons, lists, blockquote, image)
   - Styleguide: CKEditor custom styles (with visual mapping)
@@ -151,3 +166,14 @@ An example of a TOC for the User Guide.
   - Paragraph Anatomy
   - Paragraph View-Mode VS Form 1-1 visual mapping (for every type)
   - Drupal.org documentation links etc
+
+---
+
+## Tips
+- Do not change the official Drupal terminology. Eg use the word "Node" for content pages.
+- Try to use the default Drupal 8.x admin theme (Seven). It seems that Seven has the best (UX & UI) support for all the contributed modules.
+- Screenshots should contain only the Main Content region (not sidebars etc) except if you use these regions on the Node Forms.
+- Screenshots should not contain the Admin Toolbar or other non related UI elements.
+- Screenshots should use a small - medium device width (eg up to 1200px screen).
+- Screenshots of Forms with too many fields or Admin Pages with too many tasks Tasks should split to additional Guide Pages.
+- Take individual Screenshots of each element form to create a more detailed Guide.
