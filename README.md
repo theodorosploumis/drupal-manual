@@ -11,8 +11,8 @@ Of course, there is the core module [Tour](https://www.drupal.org/docs/8/core/mo
 ---
 
 ## Requirements
-- Use markdown files as sources.
-- Organize User Guide pages in folder structure
+- Use markdown, json or yml files as source.
+- Organize User Guide pages in folder structure.
 - Use a static generator to build the Guide (hugo, gatsby, grav etc).
 - Allow reader to download each User User Guide page or the whole document as pdf, html, odt.
 
@@ -156,17 +156,17 @@ An example of Table of Contents for a Drupal site User Guide.
      * Edit User
      * Delete User
 10. Appendix
-   * Using the CKEditor
-   * Styleguide: Basic CSS styles (Headings, a links, buttons, lists, blockquote, image)
-   * Styleguide: CKEditor custom styles (with visual mapping)
-   * Styleguide: Dynamic Views from real Drupal Entity in several view modes
-   * All data Fields by usage in Entities
-   * Node Anatomy
-   * Paragraph Anatomy
-   * Paragraph View-Mode VS Form 1-1 visual mapping (for every type)
-   * What is Drupal CMS
-   * (Drupal) Terminology/Glossary (eg What are Nodes, Fields, Taxonomy, Blocks, Users, Paragraphs, View Modes, Caches, CKEditor, Accessibility, HTML)
-   * Drupal.org documentation links etc
+    * Using the CKEditor
+    * Styleguide: Basic CSS styles (Headings, a links, buttons, lists, blockquote, image)
+    * Styleguide: CKEditor custom styles (with visual mapping)
+    * Styleguide: Dynamic Views from real Drupal Entity in several view modes
+    * All data Fields by usage in Entities
+    * Node Anatomy
+    * Paragraph Anatomy
+    * Paragraph View-Mode VS Form 1-1 visual mapping (for every type)
+    * What is Drupal CMS
+    * (Drupal) Terminology/Glossary (eg What are Nodes, Fields, Taxonomy, Blocks, Users, Paragraphs, View Modes, Caches, CKEditor, Accessibility, HTML)
+    * Drupal.org documentation links etc
 
 ---
 
