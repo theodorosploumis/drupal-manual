@@ -79,8 +79,7 @@ A skeleton to generate User Guide (manual) for Drupal Administrators (non-develo
 - Promoted to front page
 - Sticky at top of lists
 - Published
-
-- **FIELDS (eg Paragraph fields etc...)**
+- **CUSTOM FIELDS (eg Paragraph fields, images etc...)**
 
 ---
 
