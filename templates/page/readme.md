@@ -1,5 +1,6 @@
 # Page Template (for User Guide)
 
+| Key | Value |
 |-----|-------|
 | Title | How to create a new Node of type Page |
 | Updated | 2020-05-16 |
@@ -36,9 +37,9 @@ Some special tips here to help users while executing this task.
 ---
 
 
-[<< Previous Page](#prev) +++ [Next Page >>](#next)
+[<< Previous Page](#prev) //\\ [Next Page >>](#next)
 
 ---
 
-[Edit Page](#edit) +++ [Print](#print) +++ [pdf export](#pdf) +++ [odt export](#odt)
+[Edit Page](#edit) // [Print](#print) // [pdf export](#pdf) // [odt export](#odt)
 
