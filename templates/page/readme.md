@@ -1,8 +1,5 @@
 # Page Template (for User Guide)
 
-## Basic information
-
-| Key | Value |
 |-----|-------|
 | Title | How to create a new Node of type Page |
 | Updated | 2020-05-16 |
@@ -27,6 +24,9 @@ A guide to help you create (add) a new Node of type Page.
 ```
 (Image on the left - Annotated with numbers, Text on the right with numbered Steps)
 ```
+
+## Tips
+Some special tips here to help users while executing this task.
 
 
 ## Screencasts
