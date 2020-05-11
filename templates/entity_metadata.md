@@ -25,6 +25,6 @@
 
 ## Fields
 
-| Field name | Machine name | Description | Type | Form Mode screenshot | View Mode screenshot | Delta allowed | Required |
-| ---------- | ------------ | ----------- | ---- | -------------------- | -------------------- | ------------- | -------- |
+| Field name | Machine name | Description | Type | Form Mode screenshot | View Mode screenshot | Cardinality | Required |
+| ---------- | ------------ | ----------- | ---- | -------------------- | -------------------- | ----------- | -------- |
 | title  | label | Node title | textfield | (IMAGE) | (IMAGE) | 1 | Yes |
