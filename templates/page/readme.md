@@ -14,17 +14,16 @@
 A guide to help you create (add) a new Node of type Page.
 
 
-## Keywords
-[nodes](#nodes), [content](#content)
-
-
 ## Prerequisite knowledge
 - [What are Drupal Nodes](#docs)
 - [What are Drupal Fields](#docs)
 
 
-## Visual Guide
+## Keywords
+[nodes](#nodes), [content](#content)
 
+
+## Visual Guide
 ```
 (Image on the left - Annotated with numbers, Text on the right with numbered Steps)
 ```
@@ -33,10 +32,13 @@ A guide to help you create (add) a new Node of type Page.
 ## Screencasts
 [Drupal 8 Beginner, Lesson 17: Creating an Article](https://www.youtube.com/watch?v=vKRYE68CtAw)
 
+
 ---
 
-[<< Previous Page](#prev) | [Next Page >>](#next)
 
+[<< Previous Page](#prev) +++ [Next Page >>](#next)
 
-[Edit Page](#edit), [Print](#print), [pdf export](#pdf), [odt export](#odt)
+---
+
+[Edit Page](#edit) +++ [Print](#print) +++ [pdf export](#pdf) +++ [odt export](#odt)
 
