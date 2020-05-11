@@ -129,13 +129,16 @@ An example of Table of Contents for a Drupal site User Guide.
    * Options (see above)
 6. Content: Blocks
    * (Same as above)
-7. Forms
+7. Dynamic Pages
+   * Views Page A (how it selects data)
+   * Views Block B (how it selects data)
+8. Forms
    * FormA
      * View FormA Results table
      * Download FormA results
      * Purge (Clean) FormA results
      * Each Result of FormA Actions
-8. Menus
+9. Menus
    * MenuA
      * Add menu link
      * Edit menu link
@@ -143,19 +146,19 @@ An example of Table of Contents for a Drupal site User Guide.
      * Change weight of a menu link
      * Disable/Enable a menu link
      * Expand a menu link
-9. Settings
-   * Clear Caches
-   * Performance Settings
-   * Google Analytics
-   * Global metatags
-   * URL Aliases
-   * URL Redirects
-   * Site Settings
-   * System Users
-     * Add User
-     * Edit User
-     * Delete User
-10. Appendix
+10. Settings
+    * Clear Caches
+    * Performance Settings
+    * Google Analytics
+    * Global metatags
+    * URL Aliases
+    * URL Redirects
+    * Site Settings
+    * System Users
+      * Add User
+      * Edit User
+      * Delete User
+11. Appendix
     * Using the CKEditor
     * Styleguide: Basic CSS styles (Headings, a links, buttons, lists, blockquote, image)
     * Styleguide: CKEditor custom styles (with visual mapping)
