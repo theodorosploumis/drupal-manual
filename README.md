@@ -107,66 +107,66 @@ Of course, there is the core module [Tour](https://www.drupal.org/docs/8/core/mo
 ---
 
 ## TOC
-An example of a TOC for the User Guide.
+An example of Table of Contents for a Drupal site User Guide.
 
-- Introduction
-  - Table of Content
-  - Cover, Date created, Owner, Logos and legal notices
-  - Requirements and prior knowledge to use these Guides
-- General
-  - Login
-  - Reset Password
-- Content: Nodes
-  - Manage Nodes (Views page explanation)
-  - Node options (Actions explanation)
-  - Node form visual guide (View-Mode VS Form 1-1 visual mapping)
-  - Paragraph TypeA Fields (View-Mode VS Form 1-1 visual mapping)
-- Content: Media/MyEntity etc
-  - Manage (see above)
-  - Options (see above)
-- Content: Taxonomy
-  - Manage (see above)
-  - Options (see above)
-- Content: Blocks
-  - (Same as above)
-- Forms
-  - FormA
-    - View FormA Results table
-    - Download FormA results
-    - Purge (Clean) FormA results
-    - Each Result of FormA Actions
-- Menus
-  - MenuA
-    - Add menu link
-    - Edit menu link
-    - Delete menu link
-    - Change weight of a menu link
-    - Disable/Enable a menu link
-    - Expand a menu link
-- Settings
-  - Clear Caches
-  - Performance Settings
-  - Google Analytics
-  - Global metatags
-  - URL Aliases
-  - URL Redirects
-  - Site Settings
-  - System Users
-    - Add User
-    - Edit User
-    - Delete User
-- Appendix
-    - What is Drupal CMS
-    - (Drupal) Terminology/Glossary (eg What are Nodes, Fields, Taxonomy, Blocks, Users, Paragraphs, View Modes, Caches, CKEditor, Accessibility, HTML)
-  - Using the CKEditor
-  - Styleguide: Basic CSS styles (Headings, a links, buttons, lists, blockquote, image)
-  - Styleguide: CKEditor custom styles (with visual mapping)
-  - Styleguide: Dynamic Views from real Drupal Entity in several view modes
-  - All data Fields by usage in Entities
-  - Node Anatomy
-  - Paragraph Anatomy
-  - Paragraph View-Mode VS Form 1-1 visual mapping (for every type)
-  - Drupal.org documentation links etc
+  1. Introduction
+    - Table of Content
+    - Cover, Date created, Owner, Logos and legal notices
+    - Requirements and prior knowledge to use these Guides
+  2. General
+    - Login
+    - Reset Password
+  3. Content: Nodes
+    - Manage Nodes (Views page explanation)
+    - Node options (Actions explanation)
+    - Node form visual guide (View-Mode VS Form 1-1 visual mapping)
+    - Paragraph TypeA Fields (View-Mode VS Form 1-1 visual mapping)
+  4. Content: Media/MyEntity etc
+    - Manage (see above)
+    - Options (see above)
+  5. Content: Taxonomy
+    - Manage (see above)
+    - Options (see above)
+  6. Content: Blocks
+    - (Same as above)
+  7. Forms
+    - FormA
+      - View FormA Results table
+      - Download FormA results
+      - Purge (Clean) FormA results
+      - Each Result of FormA Actions
+  8. Menus
+    - MenuA
+      - Add menu link
+      - Edit menu link
+      - Delete menu link
+      - Change weight of a menu link
+      - Disable/Enable a menu link
+      - Expand a menu link
+  9. Settings
+    - Clear Caches
+    - Performance Settings
+    - Google Analytics
+    - Global metatags
+    - URL Aliases
+    - URL Redirects
+    - Site Settings
+    - System Users
+      - Add User
+      - Edit User
+      - Delete User
+  10. Appendix
+      - What is Drupal CMS
+      - (Drupal) Terminology/Glossary (eg What are Nodes, Fields, Taxonomy, Blocks, Users, Paragraphs, View Modes, Caches, CKEditor, Accessibility, HTML)
+    - Using the CKEditor
+    - Styleguide: Basic CSS styles (Headings, a links, buttons, lists, blockquote, image)
+    - Styleguide: CKEditor custom styles (with visual mapping)
+    - Styleguide: Dynamic Views from real Drupal Entity in several view modes
+    - All data Fields by usage in Entities
+    - Node Anatomy
+    - Paragraph Anatomy
+    - Paragraph View-Mode VS Form 1-1 visual mapping (for every type)
+    - Drupal.org documentation links etc
 
 ---
 
