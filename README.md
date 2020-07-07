@@ -174,10 +174,15 @@ An example of Table of Contents for a Drupal site User Guide.
 ---
 
 ## Tips
-- Do not change the official Drupal terminology. Eg use the word "Node" for content pages.
-- Try to use the default Drupal 8.x admin theme (Seven). It seems that Seven has the best (UX & UI) support for all the contributed modules.
+- Do not change the official Drupal terminology. Eg use the word "Node" for content pages. Let your readers learn about Drupal.
+- Try to use the default Drupal 8.x admin theme (Seven) or a subtheme based on this. It seems that Seven has the best (UX & UI) support for all the contributed modules. This will make also the screenshots reusable across projects.
+- Browser used for screenshots should not have plugins enabled that may affect styling or inputs (eg the LastPass plugin that adds buttons on input)
+- Avoid keywords and phrases that are too specific. This will make the manuals reusable.
+- Make the texts easy to replace with a simple search and replace process.
 - Screenshots should contain only the Main Content region (not sidebars etc) except if you use these regions on the Node Forms.
-- Screenshots should not contain the Admin Toolbar or other non related UI elements.
+- Screenshots should not contain the Admin Toolbar or other non related UI elements except if needed.
 - Screenshots should use a small - medium device width (eg up to 1200px screen).
 - Screenshots of Forms with too many fields or Admin Pages with too many tasks Tasks should split to additional Guide Pages.
 - Take individual Screenshots of each element form to create a more detailed Guide.
+- Use `masquerade` Drupal module to become the user you create the manuals for.
+- Don't explain everything in screenshots that are not so important or never used by users (eg do not explain all the advanced `google_analytics` module settings).
