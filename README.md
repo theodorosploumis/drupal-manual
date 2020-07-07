@@ -160,11 +160,11 @@ An example of Table of Contents for a Drupal site User Guide.
       * Delete User
 11. Appendix
     * Using the CKEditor
-    * Styleguide: Basic CSS styles (Headings, a links, buttons, lists, blockquote, image)
+    * Styleguide: Basic CSS styles (Heading, link, button, list, blockquote, image, embed etc)
     * Styleguide: CKEditor custom styles (with visual mapping)
     * Styleguide: Dynamic Views from real Drupal Entity in several view modes
-    * All data Fields by usage in Entities
     * Node Anatomy
+    * All data Fields by usage in Entities
     * Paragraph Anatomy
     * Paragraph View-Mode VS Form 1-1 visual mapping (for every type)
     * What is Drupal CMS
