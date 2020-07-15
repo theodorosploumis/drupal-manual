@@ -160,6 +160,8 @@ An example of Table of Contents for a Drupal site User Guide.
       * Delete User
 11. Appendix
     * Using the CKEditor
+    * Using Contextual links module
+    * Using Quick Edit module (quickedit)
     * Styleguide: Basic CSS styles (Heading, link, button, list, blockquote, image, embed etc)
     * Styleguide: CKEditor custom styles (with visual mapping)
     * Styleguide: Dynamic Views from real Drupal Entity in several view modes
