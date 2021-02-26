@@ -1,6 +1,8 @@
 # Drupal site - User Guide (Manual)
 > A simple skeleton to create a (printed) User Guide (manual) for Drupal Site Administrators (non-developers, non User 1). 
 
+Check https://github.com/theodorosploumis/php-docs to see how this guide is used on a real Drupal project.
+
 ## About
 Have you ever created a Drupal site and need to provide a **written (printed)** documentation for the site Admins, Managers or Authors? This project is for you. "*How to add a new Page*", "*How to Promote a Node on Front Page*" etc are some of the questions that need answer in a User Guide. 
 
