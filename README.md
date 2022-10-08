@@ -16,6 +16,7 @@ Of course, there is the core module [Tour](https://www.drupal.org/docs/8/core/mo
 
 - [Drupal.org - User Guide project (asciidoc files)](https://www.drupal.org/project/user_guide)
 - [Drupal.org - User Guide PDF](https://www.drupal.org/docs/understanding-drupal/user-guide-e-book-downloads)
+- [Drupal.org - Glossary](https://www.drupal.org/docs/user_guide/en/glossary.html)
 
 ---
 
