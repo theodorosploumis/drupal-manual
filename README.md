@@ -10,6 +10,8 @@ A lot of administrative tasks in Drupal may have the same UI and similar options
 
 Of course, there is the core module [Tour](https://www.drupal.org/docs/8/core/modules/tour) that can help users with inline popups but this will not work for printed manuals.
 
+---
+
 ## See also
 
 - [Drupal.org - User Guide project (asciidoc files)](https://www.drupal.org/project/user_guide)
